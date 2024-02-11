@@ -90,3 +90,5 @@ C:\Users\richa\Desktop\GIT\alura-curso-csharp-relacionando-entidades\FilmesApi\F
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-relacionando-entidades\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-relacionando-entidades\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-relacionando-entidades\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.sourcelink.json
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-relacionando-entidades\FilmesApi\FilmesApi\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-relacionando-entidades\FilmesApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
